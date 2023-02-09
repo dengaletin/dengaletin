@@ -4,4 +4,4 @@ I'm a developer with extensive experience in web-based big enterprises systems d
 
 - 🔭 I’m interested in PHP, Go, Java
 - 🌱 I enjoy traveling (currenty in Georgia, Tbilisi)
-- 📫 How to reach me: galetindenis@gmail.com | tg: @frescojacq
+- 📫 How to reach me: galetindenis@gmail.com | [tg: @frescojacq](https://t.me/frescojacq)
